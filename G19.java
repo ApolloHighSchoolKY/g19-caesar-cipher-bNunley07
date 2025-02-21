@@ -18,7 +18,7 @@ public class G19 {
 
     	//Create a new cipher using the shifter(#) method
     	//Encrypt and decrypt a message with your new cipher
-
+		System.out.println(cypher.shiter(1));
     }
 
 
